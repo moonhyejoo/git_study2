@@ -1,1 +1,5 @@
-feature 파일
+feature 파일 
+
+git merge master 이후
+
+feature 파일 수정
